@@ -38,7 +38,7 @@ This project addresses a real-world challenge in automating the loan eligibility
   - ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Term
   - Credit_History, Property_Area, Loan_Status (target)
 
-📁 [Download Dataset (CSV)](HomeLoanDataset.csv)
+📁 [Download Dataset (CSV)](https://github.com/KiruthikaRamadoss/Home-Loan-Approval-Prediction/blob/main/Training%20Dataset.csv)
 
 ---
 
